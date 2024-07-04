@@ -1,7 +1,7 @@
 # TopCourses-React
 
 This project is my first React app, bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses [Tailwind CSS](https://tailwindcss.com/).
-It is basically a course app which uses an API to display some of the courses.
+It is basically a course app which uses an API to display some of the courses. It helped me to understand more about components.
 
 ## Table of Contents
 
